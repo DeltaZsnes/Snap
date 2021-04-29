@@ -1,0 +1,4 @@
+//remember to define this file in linker->input->module definition file
+LIBRARY "Hook32"
+EXPORTS
+	hook_procedure
