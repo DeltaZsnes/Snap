@@ -1,0 +1,2 @@
+# Snap
+Window Snapper
